@@ -1,0 +1,24 @@
+[submodule "aws-robomaker-small-house-world"]
+	path = aws-robomaker-small-house-world
+	url = https://github.com/aws-robotics/aws-robomaker-small-house-world.git
+[submodule "geometry2"]
+	path = geometry2
+	url = https://github.com/ros/geometry2.git
+[submodule "navigation"]
+	path = navigation
+	url = https://github.com/ros-planning/navigation.git
+[submodule "navigation_msgs"]
+	path = navigation_msgs
+	url = https://github.com/ros-planning/navigation_msgs.git
+[submodule "openslam_gmapping"]
+	path = openslam_gmapping
+	url = https://github.com/ros-perception/openslam_gmapping.git
+[submodule "slam_gmapping"]
+	path = slam_gmapping
+	url = https://github.com/ros-perception/slam_gmapping.git
+[submodule "turtlebot3"]
+	path = turtlebot3
+	url = https://github.com/ROBOTIS-GIT/turtlebot3.git
+[submodule "turtlebot3_msgs"]
+	path = turtlebot3_msgs
+	url = https://github.com/ROBOTIS-GIT/turtlebot3_msgs.git
