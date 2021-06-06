@@ -1,8 +1,0 @@
-<launch>
-  <arg name="cmd_vel" default="/cmd_vel"/>
-  <arg name="name" default="turtlebot3"/>
-
-  <param name="cmd_vel_topic_name" value="$(arg cmd_vel)"/>
-
-  <node name="$(arg name)_random_exploration" pkg="turtlebot3_random_exploration" type="turtlebot3_random_exploration.py" required="true" output="screen"/>
-</launch>
